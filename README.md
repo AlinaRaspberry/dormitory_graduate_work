@@ -12,4 +12,5 @@
 ![image](https://github.com/user-attachments/assets/0e8300f0-9ebe-450c-8d6e-21eddde34e74)
 
 ### Информационная модель
-![image](https://github.com/user-attachments/assets/5ad6beea-954a-4323-b633-c0c3dba6a6b5)
+![image](https://github.com/user-attachments/assets/860129e1-422f-49c9-b82c-87e2bd16016d)
+
