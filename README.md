@@ -8,9 +8,4 @@
 ### UI Kit
 ![image](https://github.com/user-attachments/assets/90b9e700-436f-453c-9648-7f0cf2f796a0)
 
-### Диаграмма классов
-![image](https://github.com/user-attachments/assets/0e8300f0-9ebe-450c-8d6e-21eddde34e74)
-
-### Информационная модель
-![image](https://github.com/user-attachments/assets/860129e1-422f-49c9-b82c-87e2bd16016d)
 
