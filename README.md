@@ -1,16 +1,19 @@
 # dormitory_graduate_work
-### Контейнерный уровень диаграммы С4
-![image](https://github.com/user-attachments/assets/73175f05-3829-4c2d-a50f-5574937c5782)
-
-### Компонентный уровень диаграммы С4
-![image](https://github.com/user-attachments/assets/bf587ad9-b803-4a52-b7b4-c26a6b7daf50)
-
-### UI Kit
-![image](https://github.com/user-attachments/assets/90b9e700-436f-453c-9648-7f0cf2f796a0)
-
-### Диаграмма классов
-![image](https://github.com/user-attachments/assets/0e8300f0-9ebe-450c-8d6e-21eddde34e74)
 
 ### Информационная модель
 ![image](https://github.com/user-attachments/assets/860129e1-422f-49c9-b82c-87e2bd16016d)
 
+### Диаграмма классов
+![image](https://github.com/user-attachments/assets/34ef277a-f43c-4e97-8c20-473fb33e0fe4)
+
+### Диаграмма развертывания системы
+![image](https://github.com/user-attachments/assets/3df4bbdf-a6ad-4292-8a90-b9c9261c8254)
+
+### Диаграмма последовательности процесса заселения студента
+![image](https://github.com/user-attachments/assets/5f0053e1-1ed9-4ede-846a-a5e142f0f044)
+
+### Диаграмма состояний объекта Заявка
+![image](https://github.com/user-attachments/assets/a8d7a8dd-6bf1-4583-977a-73f5275687ce)
+
+### Диаграмма деятельности процесса заселения
+![image](https://github.com/user-attachments/assets/63684424-6889-4166-bbd5-21f609c17201)
