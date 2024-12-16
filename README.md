@@ -16,4 +16,5 @@
 ![image](https://github.com/user-attachments/assets/a8d7a8dd-6bf1-4583-977a-73f5275687ce)
 
 ### Диаграмма деятельности процесса заселения
-![image](https://github.com/user-attachments/assets/63684424-6889-4166-bbd5-21f609c17201)
+![image](https://github.com/user-attachments/assets/0d314e55-dd7a-4619-befe-adbcd5083241)
+
